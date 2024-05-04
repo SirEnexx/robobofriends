@@ -44,7 +44,19 @@ export const robobots = [
 		{
 			id: 8,
 			name: 'Aoi Todo',
-			username: 'Brother',
+			username: 'BestBrother',
 			email:'takadachan.no1fan@jjk.com'
+		},
+		{
+			id: 9,
+			name: 'Mahoraga',
+			username: '8-Handled Sword Divergent Sila Divine General',
+			email: 'bigraga@sacredtreasure.com'
+		},
+		{
+			id: 10,
+			name: 'Yuta Okkotsu',
+			username: 'MinorLover',
+			email: 'stayawyaformtyuta@jjk.com'
 		}
 	]
